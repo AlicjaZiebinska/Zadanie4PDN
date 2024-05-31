@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|c:\\users\\alicj\\source\\repos\\zadanie4pdnpoprawne\\zadanie4pdnpoprawne\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|solutionrelative:zadanie4pdnpoprawne\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|c:\\users\\alicj\\source\\repos\\zadanie4pdnpoprawne\\zadanie4pdnpoprawne\\zadanie4pdnpoprawne.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|solutionrelative:zadanie4pdnpoprawne\\zadanie4pdnpoprawne.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|c:\\users\\alicj\\source\\repos\\zadanie4pdnpoprawne\\zadanie4pdnpoprawne\\oknokategorii.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|solutionrelative:zadanie4pdnpoprawne\\oknokategorii.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|c:\\users\\alicj\\source\\repos\\zadanie4pdnpoprawne\\zadanie4pdnpoprawne\\oknokategorii.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|solutionrelative:zadanie4pdnpoprawne\\oknokategorii.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|c:\\users\\alicj\\source\\repos\\zadanie4pdnpoprawne\\zadanie4pdnpoprawne\\oknomodelu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|solutionrelative:zadanie4pdnpoprawne\\oknomodelu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|c:\\users\\alicj\\source\\repos\\zadanie4pdnpoprawne\\zadanie4pdnpoprawne\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|solutionrelative:zadanie4pdnpoprawne\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|c:\\users\\alicj\\source\\repos\\zadanie4pdnpoprawne\\zadanie4pdnpoprawne\\oknomodelu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|solutionrelative:zadanie4pdnpoprawne\\oknomodelu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|c:\\users\\alicj\\source\\repos\\zadanie4pdnpoprawne\\zadanie4pdnpoprawne\\pliki\\input.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47C96EE1-215B-4786-8B66-8178E4C6D56A}|Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj|solutionrelative:zadanie4pdnpoprawne\\pliki\\input.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OknoModelu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\OknoModelu.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie4PDNPoprawne\\OknoModelu.xaml.cs",
+              "ToolTip": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\OknoModelu.xaml.cs",
+              "RelativeToolTip": "Zadanie4PDNPoprawne\\OknoModelu.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:16:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OknoModelu.xaml",
+              "DocumentMoniker": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\OknoModelu.xaml",
+              "RelativeDocumentMoniker": "Zadanie4PDNPoprawne\\OknoModelu.xaml",
+              "ToolTip": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\OknoModelu.xaml",
+              "RelativeToolTip": "Zadanie4PDNPoprawne\\OknoModelu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T14:16:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OknoKategorii.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\OknoKategorii.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie4PDNPoprawne\\OknoKategorii.xaml.cs",
+              "ToolTip": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\OknoKategorii.xaml.cs",
+              "RelativeToolTip": "Zadanie4PDNPoprawne\\OknoKategorii.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:11:53.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OknoKategorii.xaml",
+              "DocumentMoniker": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\OknoKategorii.xaml",
+              "RelativeDocumentMoniker": "Zadanie4PDNPoprawne\\OknoKategorii.xaml",
+              "ToolTip": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\OknoKategorii.xaml",
+              "RelativeToolTip": "Zadanie4PDNPoprawne\\OknoKategorii.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T13:58:37.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zadanie4PDNPoprawne",
+              "DocumentMoniker": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj",
+              "RelativeDocumentMoniker": "Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj",
+              "ToolTip": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj",
+              "RelativeToolTip": "Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T13:50:00.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Zadanie4PDNPoprawne\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\MainWindow.xaml",
+              "RelativeToolTip": "Zadanie4PDNPoprawne\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T13:25:37.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie4PDNPoprawne\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Zadanie4PDNPoprawne\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA+wB4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:25:37.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Input.xml",
+              "DocumentMoniker": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\Pliki\\Input.xml",
+              "RelativeDocumentMoniker": "Zadanie4PDNPoprawne\\Pliki\\Input.xml",
+              "ToolTip": "C:\\Users\\alicj\\source\\repos\\Zadanie4PDNPoprawne\\Zadanie4PDNPoprawne\\Pliki\\Input.xml",
+              "RelativeToolTip": "Zadanie4PDNPoprawne\\Pliki\\Input.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-31T13:50:09.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

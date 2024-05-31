@@ -1,0 +1,100 @@
+<Lista>
+ <Kategoria>
+	<Nazwa>Samochody osobowe</Nazwa>
+	<Opis>Samochody do przewodu osób</Opis>
+	<Podkategoria>
+		<Nazwa>Seat</Nazwa>
+		<Opis>Hiszpańska marka samochodów</Opis>
+		<Model>
+			<Nazwa>Ibiza</Nazwa>
+			<RokWprowadzenia>1991</RokWprowadzenia>
+			<Silnik>1.3</Silnik>
+		</Model>
+		<Model>
+			<Nazwa>Toledo</Nazwa>
+			<RokWprowadzenia>1991</RokWprowadzenia>
+			<Silnik>1.8</Silnik>
+		</Model>
+	</Podkategoria>
+	<Podkategoria>
+		<Nazwa>Volkswagen</Nazwa>
+		<Opis>Niemiecka marka samochodów</Opis>
+		<Model>
+			<Nazwa>Golf</Nazwa>
+			<RokWprowadzenia>1988</RokWprowadzenia>
+			<Silnik>1.6</Silnik>
+		</Model>
+		<Model>
+			<Nazwa>Polo</Nazwa>
+			<RokWprowadzenia>1989</RokWprowadzenia>
+			<Silnik>1.4</Silnik>
+		</Model>
+	</Podkategoria>
+ </Kategoria>
+ 
+ <Kategoria>
+	<Nazwa>Samoloty</Nazwa>
+	<Opis>Samoloty różnego przeznaczenia</Opis>
+	<Podkategoria>
+		<Nazwa>Cywilne</Nazwa>
+		<Opis>Cywilne samoloty turystyczne</Opis>
+		<Model>
+			<Nazwa>Airbus A300</Nazwa>
+			<RokWprowadzenia>1982</RokWprowadzenia>
+			<Silnik>2000</Silnik>
+		</Model>
+		<Model>
+			<Nazwa>Airbus A330</Nazwa>
+			<RokWprowadzenia>1995</RokWprowadzenia>
+			<Silnik>2200</Silnik>
+		</Model>
+	</Podkategoria>
+	<Podkategoria>
+		<Nazwa>Wojskowe</Nazwa>
+		<Opis>Samoloty do celów wojskowych</Opis>
+		<Model>
+			<Nazwa>F-16</Nazwa>
+			<RokWprowadzenia>1971</RokWprowadzenia>
+			<Silnik>4000</Silnik>
+		</Model>
+		<Model>
+			<Nazwa>F-35</Nazwa>
+			<RokWprowadzenia>1984</RokWprowadzenia>
+			<Silnik>5000</Silnik>
+		</Model>
+	</Podkategoria>
+ </Kategoria>
+ 
+ <Kategoria>
+	<Nazwa>Motocykle</Nazwa>
+	<Opis>Ulubiony środek transportu niektórych ludzi</Opis>
+	<Podkategoria>
+		<Nazwa>Honda</Nazwa>
+		<Opis>Japońskie przedsiębiorstwo sprzedające motocykle</Opis>
+		<Model>
+			<Nazwa>Honda VF750F</Nazwa>
+			<RokWprowadzenia>2002</RokWprowadzenia>
+			<Silnik>225</Silnik>
+		</Model>
+		<Model>
+			<Nazwa>Honda FMX 650</Nazwa>
+			<RokWprowadzenia>2004</RokWprowadzenia>
+			<Silnik>300</Silnik>
+		</Model>
+	</Podkategoria>
+	<Podkategoria>
+		<Nazwa>Harley-Davidson</Nazwa>
+		<Opis>Amerykański producent motocykli</Opis>
+		<Model>
+			<Nazwa>Harley-Davidson FLD Dyna Switchback</Nazwa>
+			<RokWprowadzenia>1965</RokWprowadzenia>
+			<Silnik>230</Silnik>
+		</Model>
+		<Model>
+			<Nazwa>Harley-Davidson FLD Dyna Switchback</Nazwa>
+			<RokWprowadzenia>2005</RokWprowadzenia>
+			<Silnik>400</Silnik>
+		</Model>
+	</Podkategoria>
+ </Kategoria>
+</Lista>
